@@ -1,3 +1,4 @@
 # first-repository
-this is my first git Repository
-I am currently learning Github
+<h1>this is my first git Repository</h1>
+<br>
+<p> am currently learning Github</p>
